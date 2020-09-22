@@ -1,6 +1,6 @@
 # QuACK 2020 
-# Week 4 - Data Cleaning and Tidyverse
-# Practice 2
+# Week 5 - Tidyverse, cont.
+# Practice
 # Authors: Elena & Willa
 
 #### Set options ####
